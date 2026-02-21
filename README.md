@@ -8,7 +8,7 @@
 
 ```bash $ git clone https://github.com/moncji99/Sdominio```
 
-```bash $ cd Sdomin```
+```bash $ cd AoAshidominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
